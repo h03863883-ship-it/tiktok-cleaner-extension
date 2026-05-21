@@ -73,3 +73,4 @@ node --test tests/inactivity-score.contract.test.js
 ```
 
 - Os testes validam score, classificacao e regra de nao penalizar sinais ausentes.
+h03863883-ship-it/tiktok-cleaner-extension
